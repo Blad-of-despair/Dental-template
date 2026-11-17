@@ -60,7 +60,7 @@ export const about = {
   text:
     "Yashoda Dental Clinic is a trusted neighborhood dental clinic in Surya Nagar, Lucknow. Led by Dr. Yadav (BDS), we provide gentle, honest, and affordable dental care for patients of all ages. From routine check-ups to root canals and teeth whitening, your smile is in experienced hands.",
   doctorPlaceholder:
-    "Dr. [First Name] Yadav, BDS — Lead Dentist. DCI Registration No.: [To be added]",
+    "Dr. Yadav, BDS — Lead Dentist.",
   stats: [
     { value: "4.8★", label: "Patient Rating" },
     { value: "43+", label: "Verified Reviews" },
@@ -166,7 +166,7 @@ export const team = {
   ],
   members: [
     {
-      name: "Dr. [First Name] Yadav",
+      name: "Dr. Yadav",
       role: "Lead Dentist, BDS",
       image: "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?q=80&w=800&auto=format&fit=crop",
       imageAlt: "Dr. Yadav",
